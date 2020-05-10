@@ -1,0 +1,28 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1580944175798.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "762631765",
+    "id" : "6E6A19FA",
+    "lastKnownWriteTime" : 1581430103,
+    "last_content_update" : 1581430103,
+    "path" : "C:/Users/Alessandro/Desktop/Software/Coding/Projects/R/Parables/Parables.R",
+    "project_path" : "Parables.R",
+    "properties" : {
+        "cursorPosition" : "17,0",
+        "docOutlineVisible" : "0",
+        "scrollLine" : "0",
+        "source_window_id" : "",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
